@@ -1,0 +1,3 @@
+değer ve referans tipleri: https://medium.com/@emr.ktk/javada-de%C4%9Fer-ve-referans-tipleri-ca05b30c2afb
+
+interfaceler: https://medium.com/@emr.ktk/javada-interface-ler-e5bcd1b19dd4
